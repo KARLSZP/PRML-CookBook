@@ -10,6 +10,7 @@ Welcome to prml-cookbook's documentation!
    :maxdepth: 2
 
    hello
+   2_1_sequential_prediction/2_1_sequential_prediction
 
 
 
